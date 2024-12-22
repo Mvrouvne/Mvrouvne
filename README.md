@@ -50,6 +50,7 @@ Hi, I'm [Marouane Chaibat](https://twitter.com/marouanechaibat/) a computer scie
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" /></a>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vim" height="40" alt="Vim" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" /></a>
 
 
 
